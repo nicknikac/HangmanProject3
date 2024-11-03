@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1730580627 source:c:\users\nick\documents\fall '24\cs 250\programs\hangman\main.cpp
+	<iostream>
+	"word.h"
+	"guessedLetters.h"
+	"gameState.h"
+
+1730579748 c:\users\nick\documents\fall '24\cs 250\programs\hangman\include\word.h
+	<list>
+	<string>
+
+1730577513 c:\users\nick\documents\fall '24\cs 250\programs\hangman\include\guessedletters.h
+	<list>
+	<string>
+
+1730577547 c:\users\nick\documents\fall '24\cs 250\programs\hangman\include\gamestate.h
+	<list>
+	<string>
+
+1730577554 source:c:\users\nick\documents\fall '24\cs 250\programs\hangman\src\gamestate.cpp
+	"GameState.h"
+
+1730577537 source:c:\users\nick\documents\fall '24\cs 250\programs\hangman\src\guessedletters.cpp
+	"GuessedLetters.h"
+
+1730579748 source:c:\users\nick\documents\fall '24\cs 250\programs\hangman\src\word.cpp
+	"Word.h"
+
